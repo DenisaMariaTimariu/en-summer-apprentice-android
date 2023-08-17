@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="events_name">
+        <item>Electric Castle</item>
+        <item>Untold</item>
+        <item>Jazz in the park</item>
+        <item>Fotbal</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Festival de muzica</item>
+        <item>Festival de muzica</item>
+        <item>Festival de muzica</item>
+        <item>Sport</item>
+    </string-array>
+
+
+    <string-array name="date">
+        <item>16-06-1984</item>
+        <item>16-06-1984</item>
+        <item>16-06-1984</item>
+        <item>16-06-1984</item>
+    </string-array>
+
+    <string-array name="id">
+        <item>Order#1</item>
+        <item>Order#2</item>
+        <item>Order#3</item>
+        <item>Order#4</item>
+    </string-array>
+
+
+    <string-array name="numberOfTickets">
+        <item>Number of tickets: 1</item>
+        <item>Number of tickets: 3</item>
+        <item>Number of tickets: 4</item>
+        <item>Number of tickets: 2</item>
+    </string-array>
+
+    <string-array name="ticketCategory">
+        <item>Standard</item>
+        <item>VIP</item>
+        <item>Standard</item>
+        <item>Standard</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
